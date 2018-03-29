@@ -1,6 +1,6 @@
 # Github Practice
 
-A repository with which to practice using git.
+Testing Testing 1-2-3!
 
 ### What is your name?
 
